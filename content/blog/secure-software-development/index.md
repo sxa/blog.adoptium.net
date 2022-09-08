@@ -28,14 +28,14 @@ points.
 
 There are other models available and if there are others that might have
 relevant things not covered by SSDF then please let us know so we can
-evaluate whether it's worth including extra things from them.  We
-found that of the alternative models available such as
+evaluate whether it's worth including extra things from them.  We found that
+of the alternative models available such as
 [BSA](https://www.bsa.org/reports/updated-bsa-framework-for-secure-software)
 (which maps to SSDF) and [SLSA](https://slsa.dev/) we found the SSDF
-publication to be suitably thorough and in many cases is more detailed than the
-alternatives we had looked at. This does not prevent us from aiming to
-attain the levels in other specifications, but means that our primary focus
-will be on SSDF.
+publication to be suitably thorough and in many cases is more detailed than
+the alternatives we had looked at.  This does not prevent us from aiming to
+attain particular compliance levels in specifications such as SLSA, but
+means that our primary focus will be on the items in the SSDF framework.
 
 ## What are we doing?
 
@@ -43,10 +43,10 @@ As a starting point we are performing an analysis to determine where the
 Adoptium project, and Eclipse Temurin specifically to start with, is in
 terms of the points in the specifications. Our process will be:
 
-1. Determine which levels we already adhere too
-2. Collate the information on each of the SSDF points to determine where we currently stand
-3. Determine next steps in order to help us achieve the next level
-4. Implement actions to get to the best security levels that we can
+1. Determine which items in the specification we believe we already adhere to
+2. Collate the information on each of the SSDF points to clarify where we currently stand relative to what is needed
+3. Determine next steps in order to help us achieve increased compliance with the items we deem most important
+4. Implement actions to get to the best security for the product that we can and increase trust in our deliverables
 
 ## What have you done so far?
 
